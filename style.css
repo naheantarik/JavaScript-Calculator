@@ -1,0 +1,49 @@
+.Container {
+  text-align: center;
+  margin: ;
+}
+
+input {
+  border-radius: 40px;
+  font-size: 25px;
+  text-align: center;
+  width: auto;
+  border: 5px solid rgb(60, 63, 51);
+  height: 65px;
+}
+
+table {
+  margin: auto;
+}
+
+button {
+  border-radius: 20px;
+  font-size: 40px;
+  background: rgba(85, 78, 78, 0.267);
+  width: 77px;
+  height: 65px;
+}
+
+.calculator {
+  border-radius: 25px;
+  background: rgba(15, 131, 102, 0.192);
+  padding: 18px;
+  display: inline-block;
+}
+
+.Cl {
+  border-radius: 20px;
+  background: rgb(126, 5, 5);
+  width: 77px;
+  height: 65px;
+}
+
+/* .dl {
+  border-radius: 20px;
+  background: red;
+  text-align: center;
+} */
+
+/* .fa-thin fa-delete-left {
+  background: black;
+} */
